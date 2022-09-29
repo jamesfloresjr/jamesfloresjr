@@ -3,7 +3,7 @@
 I'm James Flores, an Air Force veteran, programmer, and cyber security enthusiast. I've worked in the cyber world since 2015, from help desk to analyzing malware. Proficient in PowerShell and Python, intermediate in Java and JavaScript, and still learning C and C++. I enjoy watching movies, card magic (still learning), and of course gaming.
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning Malware Analysis
+- 🌱 I’m currently learning Malware Analysis.
 - 💬 Ask me about anything!
 - 📫 How to reach me: contact@jamesflores.dev
 - ⚡ Fun fact: I was born on mother's day and was even on the news (according to my mom).
