@@ -8,7 +8,7 @@ I'm James Flores, an Air Force veteran, programmer, and cyber security enthusias
 - 📫 How to reach me: contact@jamesflores.dev
 - ⚡ Fun fact: I was born on mother's day and was even on the news (according to my mom).
 
-### Certifications
+## Certifications
 
 <a href="https://www.credly.com/badges/68849011-b0c3-4dee-9274-b716c1ae60ec/public_url" target="_blank" style="padding:1%"><img src="/img/security.png" width="175" height="175" alt="CompTIA Security+"></a>
 <a href="https://www.credly.com/badges/12755f63-970e-4d7a-84bb-acfe0671c096/public_url" target="_blank" style="padding:1%"><img src="/img/linux.png" width="175" height="175" alt="CompTIA Linux+"></a>
