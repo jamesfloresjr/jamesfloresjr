@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Welcome!
+
+I'm James Flores, an Air Force veteran, programmer, and cyber security enthusiast. I've worked in the cyber world since 2015, from help desk to analyzing malware. Proficient in PowerShell and Python, intermediate in Java and JavaScript, and still learning C and C++. I enjoy watching movies, card magic (still learning), and of course gaming. If you want to hire me, you can download my resume <a href="/assets/other/resume.pdf" download>here</a>.
 
 <!--
 **jamesfloresjr/jamesfloresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
