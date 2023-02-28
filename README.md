@@ -1,12 +1,8 @@
-# 👋 Welcome!
+# 👋 Hi!
 
-I'm James Flores, an Air Force veteran, programmer, and cyber security enthusiast. I've worked in the cyber world since 2015, from help desk to being a system administrator to analyzing malware. Proficient in PowerShell and Python, intermediate in Java and JavaScript, and still learning C and C++. I enjoy watching movies, card magic (still learning), and of course gaming.
+I'm an Air Force veteran, programmer, and Systems Engineer. I have been working with computers since 2009 and have been coding since 2012. I've had a lot of jobs, all the way from Technician to Malware Analyst.
 
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning Malware Analysis.
-- 💬 Ask me about anything!
-- 📫 How to reach me: contact@jamesflores.dev
-- ⚡ Fun fact: I was born on mother's day and was even on the news (according to my mom).
+Most of my coding is done in PowerShell but I'm also proficient in Python, JavaScript, and Java. Currently working towards my B.S. in Cloud Computing and have three certifications (CompTIA Security+, CompTIA Linux+, and GIAC Certified Forensic Analyst).
 
 <!--
 **jamesfloresjr/jamesfloresjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
