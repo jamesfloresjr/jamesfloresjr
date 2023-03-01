@@ -1,3 +1,8 @@
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamesfloresjr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesfloresjr)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21281198/james-flores)
+[![Website](https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=jekyll&logoColor=white)](https://jamesflores.dev)
+
 # 👋 Hi!
 
 I'm an Air Force veteran, programmer, and Systems Engineer. I have been working with computers since 2009 and have been coding since 2012. I've had a lot of jobs, all the way from Technician to Malware Analyst.
