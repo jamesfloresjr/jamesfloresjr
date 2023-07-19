@@ -6,8 +6,6 @@ In my free time I'm usually on Code Golf trying to solve as many questions as I 
 
 My hobbies include watching TV, disc golf, playing games, and bowling. My dad got me into disc golf and it's way harder than I expected.
 
----
-
 <p align="center">
   <a href="https://github.com/jamesfloresjr"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jamesfloresjr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
