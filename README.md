@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamesfloresjr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.credly.com/users/james-flores.373c9444/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=credly&color=FE7A16&logo=Credly&logoColor=white&label="></a>
   <a href="https://stackexchange.com/users/27870598/james-flores"><img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange"></a>
   <a href="https://stackoverflow.com/users/21281198/james-flores"><img src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=for-the-badge&logo=stack-overflow"></a>
+  <a href="https://www.linkedin.com/in/jamesfloresjr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.credly.com/users/james-flores.373c9444/badges"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=credly&color=FE7A16&logo=Credly&logoColor=white&label="></a>
   <a href="https://jamesflores.dev"><img src="https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=jekyll"></a>
 </p>
 
