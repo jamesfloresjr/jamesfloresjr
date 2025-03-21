@@ -11,14 +11,6 @@ I'm a Air Force Veteran and System Engineer with a passion for cloud computing, 
 - Cyber Defense and Security
 - Full-Stack Development (Flask, Django, Angular)
 
-## 💻 **Tech I love working with:**  
-- PowerShell, Python, Java, JavaScript, HTML, CSS
-- Windows, Linux (RHEL, Ubuntu)  
-- Ansible, Git, Docker
-
-## 📫 **How to reach me:**  
-- Email: me@jamesflores.dev
-
 ## 🌟 **Fun Fact:**  
 I’m a huge fan of Breaking Bad and am currently learning how to play the drums
 
